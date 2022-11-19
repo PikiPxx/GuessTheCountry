@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c71c664fcb23ad840ae7ae51692a9593, type: 3}
+  m_Name: Zambia
+  m_EditorClassIdentifier: 
+  countryID: 194
+  countryName: Zambia
+  capitalCity: Lusaka
+  flagColors:
+  - {r: 0, g: 1, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 1, g: 0.64705884, b: 0, a: 0}
+  population: 18383955
+  size: 743390
+  continent: Africa
+  image: {fileID: 21300000, guid: f2c49952c6f33064fb932c44edd57e36, type: 3}

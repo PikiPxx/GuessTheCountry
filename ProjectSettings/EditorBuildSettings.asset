@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a0066929bda863847858ca0e0e6e93ae
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: cf40ead647443ae42863be81b5cc8654
+  - enabled: 1
+    path: Assets/Scenes/AlbumScene.unity
+    guid: 79c44cf6d56b7464993046029a022ac9
+  - enabled: 1
+    path: Assets/Scenes/AfricaScene.unity
+    guid: 56017199036ef624ab5c8889d6287b11
+  - enabled: 1
+    path: Assets/Scenes/EUScene.unity
+    guid: 5ce216719e9257d43ab8c4edfac6b876
+  - enabled: 1
+    path: Assets/Scenes/NAScene.unity
+    guid: d39910d7d2c537340a98d3b549698667
+  - enabled: 1
+    path: Assets/Scenes/SouthAmericaScene.unity
+    guid: e1fcbefdafdc8304eaf12cd6b450405c
+  - enabled: 1
+    path: Assets/Scenes/AsiaScene.unity
+    guid: ae8c0472d679be44785a3ff52930c214
+  - enabled: 1
+    path: Assets/Scenes/OceaniaScene.unity
+    guid: fcb2b6623ced8cd408464c1917c6dbcd
+  - enabled: 1
+    path: Assets/Scenes/StatsScene.unity
+    guid: 5d94709e0aca69442b47d01783280fd3
+  - enabled: 1
+    path: Assets/Scenes/AchievementScene.unity
+    guid: d819fdf5513a14d48bffb50fd3d18c4d
+  m_configObjects: {}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c71c664fcb23ad840ae7ae51692a9593, type: 3}
+  m_Name: Bolivia
+  m_EditorClassIdentifier: 
+  countryID: 20
+  countryName: Bolivia
+  capitalCity: La Paz
+  flagColors:
+  - {r: 1, g: 1, b: 0, a: 0}
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0, a: 0}
+  population: 11673021
+  size: 1083300
+  continent: South America
+  image: {fileID: 21300000, guid: d8d6f1d2484bfc647ad74c39a41c3638, type: 3}
